@@ -1,19 +1,37 @@
-# Shortly Website
+# Shortly
 
-Shortly landing page from my Tailwind course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G)
+Shortly landing page using Tailwind and from Frontend Mentor Challenge.
 
-## Usage
+## Screenshots
+
+![App Screenshot](https://github.com/MaxBenDuah/miscellaneous-resources/blob/main/screenshot-shortly.png?raw=true)
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/MaxBenDuah/shortly-tailwind-project.git
+```
+
+Go to the project directory
+
+```bash
+  cd shortly-tailwind-project
+```
 
 Install dependencies
 
-```
-npm Install
-```
-
-Run Tailwind CLI
-
-```
-npm run watch
+```bash
+  npm install
 ```
 
-![Alt text](images/shortly.png)
+Start the server
+
+```bash
+  npm run watch
+```
+
+## Demo
+
+https://shortly-mbd.netlify.app/
